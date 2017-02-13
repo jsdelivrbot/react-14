@@ -14,6 +14,7 @@ renderWeather(cityData) {
             <td>
                 <Chart data={temps} color="orange" />
             </td>
+
         </tr>
     );
 }
